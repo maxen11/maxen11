@@ -9,8 +9,8 @@ Skills: PYTHON / REACT / JS / TS / HTML / CSS / JAVA / C / C++
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxen11&hide_progress=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxen11&size_weight=0.5&count_weight=0.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxen11&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxen11&hide=html,css)
 <!--
 **maxen11/maxen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
