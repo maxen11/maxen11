@@ -1,8 +1,12 @@
-## Hi there 👋
+### Hi there 👋, my name is Max
+#### M.Sc student in Information Technology - Cybersecurity
+I'm Max from Sweden and I am currently a 5th year student at Linköping University where I study information technology with a masters in cybersecurity. Currently I am working on expanding my abilities in React, and developing my cybersecurity skills through sites like tryhackme and hackthebox.
 
-I'm Max from Sweden and I am currently a 5th year student at Linköping University where I study information technology with a masters in cybersecurity. Currently I am working on expanding my abilities in React Native, and developing my cybersecurity skills through sites like tryhackme and hackthebox.
+Skills: PYTHON / REACT / JS / TS / HTML / CSS / JAVA / C / C++ 
 
-[![maxen11's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxen11)](https://github.com/maxen11/github-readme-stats)
+- 🔭 I’m currently working on finishing my degree 
+- 🌱 I’m currently learning REACT / .NET / CTFs  
+
 <!--
 **maxen11/maxen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
