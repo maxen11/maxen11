@@ -7,7 +7,6 @@ Skills: PYTHON / REACT / JS / TS / HTML / CSS / JAVA / C / C++
 - 🔭 I’m currently working on finishing my degree 
 - 🌱 I’m currently learning REACT / .NET / CTFs
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maxen11)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxen11&hide_progress=true&hide=html,css)
