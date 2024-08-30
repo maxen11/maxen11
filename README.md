@@ -7,6 +7,7 @@ Skills: PYTHON / REACT / JS / TS / HTML / CSS / JAVA / C / C++
 - 🔭 I’m currently working on finishing my degree 
 - 🌱 I’m currently learning REACT / .NET / CTFs  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxen11&hide_progress=true)
 <!--
 **maxen11/maxen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
