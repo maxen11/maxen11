@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Max
-#### M.Sc Student in Information Technology - Secure Systems
-I'm Max from Sweden and I am currently a 5th and Final year student at Linköping University where I study information technology with a masters in secure systems. I am currently working on my masters thesis where I am investigating real-world exploit complexity in Android security through hands-on testing on physical devices. 
+#### M.Sc in Information Technology - Secure Systems
+#### Working as a Cyber Security Engineer
 <!--
 expanding my abilities in React, and developing my cybersecurity skills through sites like tryhackme and hackthebox.
 -->
-Skills: PYTHON / REACT / JS / TS / HTML / CSS / JAVA / C / C++ 
+Programming skills: PYTHON / REACT / JS / TS / HTML / CSS / JAVA / C / C++ 
 
-- 🔭 I’m currently working on finishing my degree 
-- 🌱 I’m currently learning Android Security / CTFs / .NET / WordPress
+- 🔭 I’m currently working as a Cyber Security Engineer 
+- 🌱 I’m currently learning Security / CTFs / Windows Security / ELK-Stack
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maxen11)  
 
